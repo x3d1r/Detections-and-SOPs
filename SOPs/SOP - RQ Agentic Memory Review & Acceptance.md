@@ -11,7 +11,7 @@ SIEM platform  —  Detection Engineering
 | **Author** | Lucian Peckham — Detection Engineer |
 | **Applies to** | Detection engineering peer reviewers/approvers |
 | **Platform** | SIEM Platform — Settings \> Content \> Agentic Memory |
-| **Supporting register** | Agentic Memory Register.xlsx |
+| **Supporting register** | [Example] |
 | **Version** | 1.0 (Draft) |
 | **Date** | 26 August 2026 |
 | **Review cycle** | Quarterly, or on SIEM platform release affecting AM behaviour |
