@@ -129,8 +129,7 @@ schema** conventions only. No client or engagement is identifiable.
 
 ## Author
 
-[Your Name] — Threat Detection & Automation Engineer
-[Website] · [LinkedIn] · [Email]
+Lucian Peckham — Threat Detection & Automation Engineer
 
 ## License
 
