@@ -19,9 +19,8 @@ dropped to sustainable levels — then documented so another analyst (or an AI
 agent) can reproduce that reasoning.
 
 I built and tested these detections in real-world scenarios across enterprise
-engagements, and measured the outcome: **a [X]% reduction in false-positive
-volume** and **a [Y]% increase in true-positive fidelity** on the techniques
-covered, compared to baseline vendor content.
+engagements, and measured  on the techniques
+covered.
 
 ## What makes this different
 
