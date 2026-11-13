@@ -33,17 +33,6 @@ covered.
 | Mapping | ATT&CK only | **ATT&CK + MITRE Engage + D3FEND** |
 | Automation | None | **SOAR enrichment + containment playbook** per rule |
 
-## Measured impact
-
-- **[X]%** false-positive reduction on covered techniques after exclusion tuning
-- **[Y]%** true-positive fidelity uplift vs. out-of-box vendor rules
-- **[N]** detections validated against observed adversary activity in engagements
-- **[M]** rules promoted from `Test` → `Production` status
-- Validated across **3 platforms**: Chronicle, Defender for Endpoint, Azure AD
-
-> Replace `[X] [Y] [N] [M]` with your real figures. If exact numbers aren't
-> tracked yet, use conservative ranges (e.g., "30–40%").
-
 ## Structure
 
 Rules are grouped by **detection engine** (matching the ID prefix), with each
