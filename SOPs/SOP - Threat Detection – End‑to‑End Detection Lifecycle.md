@@ -161,10 +161,7 @@ Documented **false positive assessment**
 Detections must be reviewed and approved by the following key stakeholders:
 
 - Lucian Peckham
-- Lucian Peckham
-- Lucian Peckham
-- Lucian Peckham
-
+  
 Stakeholders are asked to **explicitly confirm** that:
 
 - The behaviour represents a **meaningful risk**
