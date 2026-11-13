@@ -2,8 +2,6 @@
 
 > Enterprise-validated detection content for **Google SecOps (YARA-L)**,
 > **Microsoft Defender for Endpoint (KQL)**, and **Azure AD / Entra ID** —
-> engineered through a documented methodology and proven against real
-> adversary activity in multi-billion-dollar environments.
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%2CK-red)
 ![Platforms](https://img.shields.io/badge/Platforms-Chronicle%20%7C%20MDE%20%7C%20AzureAD-blue)
